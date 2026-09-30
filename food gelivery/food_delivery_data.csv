@@ -1,0 +1,181 @@
+Order_ID,Gender,Age,City,Cuisine_Type,Items_Ordered,Price_Per_Item,Order_Date,Total_Amount
+1,Male,35,Pune,Italian,5,107,2025-07-11,535
+2,Male,22,Bangalore,Chinese,2,341,2025-06-02,682
+3,Male,43,Delhi,Mexican,4,243,2025-07-29,972
+4,Female,47,Mumbai,Mexican,4,228,2025-07-16,912
+5,Male,29,Delhi,Chinese,5,310,2025-06-16,1550
+6,Female,55,Pune,Chinese,2,331,2025-06-16,662
+7,Male,49,Mumbai,Mexican,1,276,2025-07-24,276
+8,Male,21,Surat,Fast Food,2,144,2025-06-18,288
+9,Male,48,Pune,Chinese,3,109,2025-06-10,327
+10,Male,31,Bangalore,Indian,3,276,2025-06-26,828
+11,Female,23,Bangalore,Fast Food,1,227,2025-07-04,227
+12,Female,57,Bangalore,Mexican,5,105,2025-06-03,525
+13,Male,18,Pune,Mexican,1,244,2025-07-28,244
+14,Male,33,Surat,Indian,5,111,2025-07-09,555
+15,Female,54,Bangalore,Italian,1,260,2025-06-01,260
+16,Female,31,Pune,Fast Food,4,396,2025-06-29,1584
+17,Female,50,Surat,Fast Food,3,136,2025-06-01,408
+18,Male,50,Delhi,Indian,4,169,2025-06-09,676
+19,Female,29,Mumbai,Italian,5,193,2025-06-07,965
+20,Male,19,Mumbai,Mexican,5,149,2025-06-29,745
+21,Male,50,Mumbai,Chinese,1,323,2025-07-19,323
+22,Male,57,Mumbai,Fast Food,1,235,2025-06-29,235
+23,Female,24,Bangalore,Italian,1,192,2025-07-03,192
+24,Male,21,Surat,Chinese,4,278,2025-06-18,1112
+25,Female,56,Surat,Chinese,1,276,2025-06-22,276
+26,Female,48,Delhi,Mexican,3,147,2025-07-04,441
+27,Male,22,Mumbai,Chinese,1,226,2025-06-08,226
+28,Female,45,Bangalore,Fast Food,2,311,2025-06-05,622
+29,Female,58,Delhi,Chinese,5,205,2025-06-06,1025
+30,Male,48,Mumbai,Mexican,2,177,2025-07-18,354
+31,Male,44,Delhi,Indian,4,124,2025-07-08,496
+32,Male,59,Bangalore,Italian,4,167,2025-07-01,668
+33,Male,44,Bangalore,Italian,1,149,2025-07-20,149
+34,Female,45,Delhi,Chinese,4,133,2025-06-30,532
+35,Female,43,Mumbai,Fast Food,1,168,2025-07-23,168
+36,Female,20,Pune,Fast Food,2,330,2025-07-04,660
+37,Male,39,Pune,Fast Food,1,195,2025-06-06,195
+38,Male,38,Pune,Fast Food,1,225,2025-06-25,225
+39,Male,28,Mumbai,Indian,5,351,2025-06-01,1755
+40,Male,51,Pune,Italian,5,161,2025-07-10,805
+41,Male,55,Delhi,Fast Food,5,178,2025-06-17,890
+42,Male,36,Bangalore,Fast Food,3,176,2025-06-17,528
+43,Female,35,Mumbai,Chinese,2,222,2025-07-27,444
+44,Male,35,Bangalore,Fast Food,4,108,2025-06-13,432
+45,Female,52,Surat,Fast Food,1,280,2025-06-23,280
+46,Male,26,Surat,Fast Food,5,194,2025-06-04,970
+47,Male,31,Delhi,Italian,1,307,2025-06-21,307
+48,Female,23,Mumbai,Indian,5,284,2025-06-05,1420
+49,Male,40,Bangalore,Indian,4,281,2025-06-07,1124
+50,Male,58,Pune,Indian,2,134,2025-07-08,268
+51,Male,36,Mumbai,Fast Food,4,368,2025-06-15,1472
+52,Female,19,Delhi,Italian,4,360,2025-07-23,1440
+53,Male,50,Surat,Indian,4,144,2025-06-07,576
+54,Female,25,Pune,Fast Food,2,376,2025-06-08,752
+55,Male,22,Bangalore,Indian,4,399,2025-06-07,1596
+56,Male,47,Mumbai,Italian,4,374,2025-07-18,1496
+57,Male,30,Delhi,Mexican,5,284,2025-07-08,1420
+58,Male,54,Pune,Mexican,4,249,2025-07-23,996
+59,Female,18,Bangalore,Mexican,2,221,2025-07-04,442
+60,Male,55,Bangalore,Fast Food,4,118,2025-07-17,472
+61,Male,20,Mumbai,Indian,2,347,2025-06-12,694
+62,Male,39,Mumbai,Italian,2,105,2025-06-25,210
+63,Female,40,Bangalore,Italian,2,233,2025-07-19,466
+64,Female,27,Delhi,Indian,3,257,2025-07-29,771
+65,Female,48,Delhi,Indian,4,346,2025-07-29,1384
+66,Male,40,Delhi,Italian,3,168,2025-06-16,504
+67,Male,41,Pune,Mexican,3,338,2025-07-16,1014
+68,Female,28,Mumbai,Indian,4,202,2025-07-14,808
+69,Female,26,Delhi,Indian,4,305,2025-06-16,1220
+70,Male,29,Bangalore,Mexican,3,188,2025-06-16,564
+71,Female,57,Delhi,Indian,1,191,2025-07-24,191
+72,Male,21,Surat,Mexican,5,116,2025-06-02,580
+73,Female,25,Bangalore,Fast Food,4,233,2025-06-08,932
+74,Female,34,Mumbai,Indian,2,204,2025-07-04,408
+75,Female,24,Delhi,Fast Food,2,193,2025-07-28,386
+76,Male,25,Mumbai,Mexican,5,173,2025-06-30,865
+77,Female,31,Mumbai,Chinese,4,283,2025-06-27,1132
+78,Female,34,Mumbai,Italian,5,395,2025-06-28,1975
+79,Male,20,Surat,Italian,5,306,2025-07-18,1530
+80,Male,57,Surat,Indian,5,290,2025-07-17,1450
+81,Female,22,Surat,Mexican,4,137,2025-07-23,548
+82,Male,20,Bangalore,Chinese,4,341,2025-06-15,1364
+83,Female,47,Mumbai,Mexican,1,365,2025-06-04,365
+84,Male,55,Pune,Fast Food,5,263,2025-06-28,1315
+85,Female,31,Mumbai,Mexican,4,115,2025-06-17,460
+86,Female,42,Surat,Italian,1,260,2025-07-25,260
+87,Male,18,Mumbai,Chinese,3,298,2025-07-30,894
+88,Male,39,Bangalore,Italian,3,312,2025-07-11,936
+89,Female,53,Bangalore,Chinese,4,133,2025-06-13,532
+90,Male,44,Mumbai,Mexican,3,121,2025-06-17,363
+91,Male,47,Delhi,Italian,4,367,2025-07-24,1468
+92,Female,33,Pune,Mexican,5,239,2025-06-08,1195
+93,Male,22,Pune,Mexican,5,136,2025-07-19,680
+94,Male,39,Delhi,Italian,1,337,2025-07-08,337
+95,Male,45,Pune,Indian,5,271,2025-06-08,1355
+96,Female,28,Delhi,Fast Food,4,353,2025-07-19,1412
+97,Female,45,Bangalore,Fast Food,2,299,2025-07-19,598
+98,Female,18,Mumbai,Italian,3,363,2025-06-14,1089
+99,Male,39,Delhi,Fast Food,5,226,2025-06-12,1130
+100,Female,43,Bangalore,Mexican,5,375,2025-07-29,1875
+101,Male,21,Surat,Chinese,2,327,2025-06-19,654
+102,Male,23,Mumbai,Mexican,2,133,2025-06-10,266
+103,Male,18,Mumbai,Indian,3,364,2025-07-15,1092
+104,Female,35,Delhi,Chinese,1,307,2025-06-10,307
+105,Male,28,Delhi,Indian,5,374,2025-06-03,1870
+106,Male,57,Mumbai,Fast Food,3,181,2025-07-04,543
+107,Female,41,Mumbai,Mexican,5,203,2025-06-05,1015
+108,Male,57,Delhi,Mexican,1,172,2025-06-03,172
+109,Female,20,Delhi,Italian,3,252,2025-07-01,756
+110,Male,37,Pune,Indian,4,368,2025-06-25,1472
+111,Male,40,Mumbai,Indian,3,277,2025-06-06,831
+112,Male,30,Bangalore,Mexican,5,326,2025-06-03,1630
+113,Male,42,Bangalore,Chinese,2,295,2025-07-20,590
+114,Female,20,Delhi,Italian,3,224,2025-06-09,672
+115,Male,25,Surat,Fast Food,2,196,2025-06-03,392
+116,Female,46,Bangalore,Italian,2,318,2025-06-25,636
+117,Male,55,Surat,Mexican,5,303,2025-06-25,1515
+118,Female,25,Bangalore,Chinese,2,229,2025-07-20,458
+119,Male,59,Mumbai,Chinese,1,393,2025-07-17,393
+120,Female,53,Mumbai,Fast Food,5,393,2025-07-09,1965
+121,Male,50,Surat,Mexican,2,311,2025-07-23,622
+122,Male,43,Mumbai,Mexican,5,143,2025-07-29,715
+123,Female,59,Surat,Chinese,4,278,2025-06-11,1112
+124,Female,38,Delhi,Chinese,5,294,2025-06-26,1470
+125,Male,23,Bangalore,Chinese,2,211,2025-06-08,422
+126,Male,53,Surat,Indian,4,236,2025-06-24,944
+127,Female,33,Bangalore,Indian,1,350,2025-06-20,350
+128,Female,58,Bangalore,Fast Food,2,162,2025-06-03,324
+129,Female,22,Bangalore,Fast Food,4,184,2025-06-10,736
+130,Female,45,Delhi,Indian,5,260,2025-07-08,1300
+131,Female,26,Bangalore,Indian,1,354,2025-07-14,354
+132,Male,19,Delhi,Indian,4,337,2025-06-22,1348
+133,Female,38,Bangalore,Chinese,2,295,2025-07-24,590
+134,Male,20,Bangalore,Mexican,5,128,2025-07-18,640
+135,Female,31,Mumbai,Chinese,5,281,2025-06-09,1405
+136,Male,26,Pune,Indian,5,179,2025-07-02,895
+137,Male,39,Mumbai,Indian,3,202,2025-06-28,606
+138,Male,29,Mumbai,Indian,2,141,2025-06-03,282
+139,Female,18,Mumbai,Mexican,4,392,2025-06-22,1568
+140,Male,28,Delhi,Indian,4,368,2025-06-25,1472
+141,Female,59,Delhi,Chinese,3,264,2025-06-04,792
+142,Female,51,Bangalore,Fast Food,5,297,2025-07-25,1485
+143,Male,45,Mumbai,Chinese,1,159,2025-06-23,159
+144,Male,49,Delhi,Indian,4,231,2025-06-30,924
+145,Female,29,Surat,Indian,1,265,2025-07-12,265
+146,Male,49,Bangalore,Mexican,2,186,2025-07-06,372
+147,Female,54,Delhi,Chinese,1,274,2025-06-26,274
+148,Female,51,Bangalore,Mexican,5,114,2025-07-01,570
+149,Female,27,Bangalore,Chinese,4,247,2025-06-09,988
+150,Female,47,Mumbai,Fast Food,2,278,2025-06-23,556
+151,Male,32,Surat,Chinese,3,393,2025-07-26,1179
+152,Male,20,Pune,Chinese,1,169,2025-06-07,169
+153,Male,27,Delhi,Fast Food,3,316,2025-06-06,948
+154,Female,29,Mumbai,Chinese,1,367,2025-06-24,367
+155,Female,19,Surat,Mexican,3,126,2025-07-03,378
+156,Female,52,Mumbai,Mexican,2,390,2025-07-14,780
+157,Female,35,Delhi,Italian,2,180,2025-07-16,360
+158,Female,23,Mumbai,Chinese,4,397,2025-07-02,1588
+159,Male,56,Pune,Mexican,2,390,2025-07-13,780
+160,Male,49,Pune,Chinese,1,295,2025-06-05,295
+161,Male,32,Mumbai,Indian,1,104,2025-07-29,104
+162,Male,35,Bangalore,Mexican,2,204,2025-06-17,408
+163,Female,40,Pune,Indian,2,235,2025-06-03,470
+164,Male,34,Pune,Fast Food,2,334,2025-06-06,668
+165,Female,23,Surat,Chinese,4,212,2025-07-18,848
+166,Female,57,Surat,Fast Food,3,358,2025-07-26,1074
+167,Male,38,Pune,Indian,1,395,2025-06-23,395
+168,Female,20,Delhi,Indian,3,172,2025-06-30,516
+169,Male,40,Delhi,Chinese,3,104,2025-06-25,312
+170,Female,22,Pune,Chinese,5,100,2025-06-21,500
+171,Male,51,Bangalore,Italian,3,280,2025-06-21,840
+172,Male,57,Mumbai,Chinese,4,213,2025-07-19,852
+173,Female,50,Mumbai,Mexican,5,120,2025-06-19,600
+174,Male,42,Surat,Mexican,1,224,2025-06-02,224
+175,Male,28,Pune,Indian,2,131,2025-06-15,262
+176,Male,34,Bangalore,Mexican,5,149,2025-07-29,745
+177,Female,59,Delhi,Italian,2,334,2025-07-30,668
+178,Female,50,Surat,Fast Food,5,250,2025-06-25,1250
+179,Female,37,Mumbai,Fast Food,4,258,2025-06-06,1032
+180,Male,36,Pune,Mexican,3,214,2025-07-12,642
